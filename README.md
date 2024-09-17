@@ -1,3 +1,15 @@
+-   Cài đặt
+
+```bash
+npm install
+```
+
+or
+
+```bash
+npm i
+```
+
 ### 1. Tạo dự án Node.js
 
 ```bash
